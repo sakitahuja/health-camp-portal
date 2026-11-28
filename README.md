@@ -54,10 +54,9 @@ This project was developed as a beginner-level frontend development project to p
 
 ## 👨‍💻 Developers
 
-1. **Madhav Kumar**
-2. **Sakit Ahuja**
-3. **Kartik**
-
+- **Madhav Kumar**
+- **Sakit Ahuja**
+- **Kartik**
 
 ## 📌 Note
 
