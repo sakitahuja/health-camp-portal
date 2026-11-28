@@ -4,6 +4,8 @@ CareFlow is a simple and user-friendly Health Camp Portal designed to make basic
 
 The project focuses on a simple design, easy navigation, and a responsive user experience.
 
+🔗 **Live Demo:** https://sakitahuja.github.io/health-camp-portal/
+
 ## ✨ Features
 
 - **Clean Homepage:** A simple and welcoming landing page.
@@ -21,19 +23,20 @@ The project focuses on a simple design, easy navigation, and a responsive user e
 
 ## 📁 Project Structure
 
-```text
-CareFlow/
+```
+health-camp-portal/
 ├── index.html
-├── favicon.svg
-├── css/
-│   └── styles.css
-└── js/
-    └── main.js
+├── style.css
+├── script.js
+└── README.md
 ```
 
 ## 🚀 Getting Started
 
-1. Download or clone this repository.
+1. Download or clone this repository:
+   ```
+   git clone https://github.com/sakitahuja/health-camp-portal.git
+   ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
@@ -56,7 +59,7 @@ This project was developed as a beginner-level frontend development project to p
 
 - **Madhav Kumar**
 - **Sakit Ahuja**
-- **Kartik**
+- **Harsh**
 
 ## 📌 Note
 
